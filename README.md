@@ -1,4 +1,4 @@
-## Hey! Welcome to my account!
+## Hey! Welcome to our account!
 
 Hi, my name is Josh and me and my friend Alex run this account called Binancil.
 This account will be run by both of us, so to know who's who let me say this:
