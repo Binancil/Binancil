@@ -1,7 +1,8 @@
 ## Hey! Welcome to my account!
 
 Hi, my name is Josh and me and my friend Alex run this account called Binancil.
-This account will be run by both of us, so to know who's who we'll state our name at the top of the repo.
+This account will be run by both of us, so to know who's who let me say this:
+I will create seperate repositories for my programs, and Alex will put all his into one repository.
 We make programs in mainly python, but also other things if we feel like it. There isn't really a
 category you could put us in, we just like to make what comes into our mind.
 
